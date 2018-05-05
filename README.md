@@ -1,5 +1,5 @@
 # Sim-Hearthstone
-This is a Hearthstone simulator.
+This is a Hearthstone-style card game.
 
 # Object
 We want to develop a card game like Hearthstone. (The name may changed as time goes by.)
