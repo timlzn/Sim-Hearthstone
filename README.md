@@ -1,5 +1,5 @@
 # Sim-Hearthstone
-This is a card game based on Unity.
+This is a PC card game based on Unity. （It may be changed）
 
 # Object
 We want to develop a card game like Hearthstone. (The name may changed as time goes by.)
